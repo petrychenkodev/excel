@@ -6,3 +6,6 @@ Webpack (imports/exports)
 		dev
 		prod
 Git
+
+	production
+	development
